@@ -1,0 +1,11 @@
+# Maxfiy ma’lumotlar (secrets) va foydalanuvchilar ro‘yxati
+.env
+obunachilar.json
+
+# Python va Colab vaqtinchalik fayllari (cache)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Excel ochiq turganda paydo bo‘ladigan vaqtinchalik fayllar
+~$*

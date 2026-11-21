@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-labelledby="jarayon-nomi jarayon-izoh">
+  <title id="jarayon-nomi">Botning «miyasi»: tekshirilgan ma’lumotlar bazasi</title>
+  <desc id="jarayon-izoh">170+ Kengash qarori, 3 hudud, 5 yil, 2 300+ qator ma’lumot. Jarayon: PDF qarorlar → jadval (Excel) → tekshiruv → AI javob, manbasi bilan.</desc>
+  <defs>
+    <style>
+      .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .mono { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+      .karta { fill: #111827; stroke: #1F2937; stroke-width: 1.5; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="400" rx="28" fill="#0A0E1A"/>
+
+  <!-- 1-qator: raqamlar -->
+  <rect class="karta" x="36" y="28" width="272" height="118" rx="16"/>
+  <rect class="karta" x="348" y="28" width="272" height="118" rx="16"/>
+  <rect class="karta" x="660" y="28" width="272" height="118" rx="16"/>
+  <rect class="karta" x="972" y="28" width="272" height="118" rx="16"/>
+  <g class="mono" font-size="46" font-weight="700" text-anchor="middle">
+    <text x="172" y="94" fill="#E5534B">170+</text>
+    <text x="484" y="94" fill="#F59E0B">3</text>
+    <text x="796" y="94" fill="#3B82F6">5</text>
+    <text x="1108" y="94" fill="#22C55E">2 300+</text>
+  </g>
+  <g class="sans" font-size="15" fill="#9CA3AF" text-anchor="middle">
+    <text x="172" y="128">Kengash qarori</text>
+    <text x="484" y="128">hudud: viloyat, Termiz, Sherobod</text>
+    <text x="796" y="128">yil: 2022 — 2026</text>
+    <text x="1108" y="128">qator ma’lumot</text>
+  </g>
+
+  <!-- 2-qator: jarayon -->
+  <rect class="karta" x="36" y="174" width="272" height="198" rx="16"/>
+  <rect class="karta" x="348" y="174" width="272" height="198" rx="16"/>
+  <rect class="karta" x="660" y="174" width="272" height="198" rx="16"/>
+  <rect class="karta" x="972" y="174" width="272" height="198" rx="16"/>
+  <g class="mono" font-size="13" fill="#4B5563">
+    <text x="56" y="200">01</text>
+    <text x="368" y="200">02</text>
+    <text x="680" y="200">03</text>
+    <text x="992" y="200">04</text>
+  </g>
+
+  <!-- Belgilar -->
+  <g fill="none" stroke="#E5534B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156 202h20l12 12v36h-32z"/>
+    <path d="M176 202v12h12"/>
+    <path d="M164 228h16M164 238h16"/>
+  </g>
+  <g fill="none" stroke="#F59E0B" stroke-width="3" stroke-linejoin="round">
+    <rect x="462" y="206" width="44" height="40" rx="6"/>
+    <path d="M462 219h44M462 233h44M477 206v40M491 206v40"/>
+  </g>
+  <g fill="none" stroke="#3B82F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="796" cy="226" r="21"/>
+    <path d="M786 227l7 7l13-15"/>
+  </g>
+  <path d="M1094 208h28a8 8 0 0 1 8 8v16a8 8 0 0 1-8 8h-20l-8 8v-8a8 8 0 0 1-8-8v-16a8 8 0 0 1 8-8z" fill="none" stroke="#22C55E" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M1108 215c1 5 3 7 8 9c-5 1-7 3-8 8c-1-5-3-7-8-8c5-2 7-4 8-9z" fill="#22C55E"/>
+
+  <g class="sans" font-size="20" font-weight="700" fill="#F9FAFB" text-anchor="middle">
+    <text x="172" y="284">PDF qarorlar</text>
+    <text x="484" y="284">Jadval (Excel)</text>
+    <text x="796" y="284">Tekshiruv</text>
+    <text x="1108" y="284">AI javob</text>
+  </g>
+  <g class="sans" font-size="15" fill="#9CA3AF" text-anchor="middle">
+    <text x="172" y="314">Kengash saytlari va</text>
+    <text x="172" y="336">E-qaror portalidan</text>
+    <text x="484" y="314">ming so‘m → mln so‘m,</text>
+    <text x="484" y="336">soha bo‘yicha</text>
+    <text x="796" y="314">har jadval qarordagi</text>
+    <text x="796" y="336">«jami» bilan solishtiriladi</text>
+    <text x="1108" y="314">faqat shu bazadan,</text>
+    <text x="1108" y="336">manbasi bilan</text>
+  </g>
+
+  <!-- Strelkalar -->
+  <g>
+    <circle cx="328" cy="273" r="14" fill="#E5534B"/>
+    <circle cx="640" cy="273" r="14" fill="#E5534B"/>
+    <circle cx="952" cy="273" r="14" fill="#E5534B"/>
+  </g>
+  <g fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M325 267l6 6l-6 6"/>
+    <path d="M637 267l6 6l-6 6"/>
+    <path d="M949 267l6 6l-6 6"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+# O'z pulim boti uchun kutubxonalar (libraries)
+python-telegram-bot>=21
+google-genai
+pandas
+openpyxl

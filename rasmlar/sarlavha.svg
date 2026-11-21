@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 480" width="1280" height="480" role="img" aria-labelledby="sarlavha-nomi sarlavha-izoh">
+  <title id="sarlavha-nomi">O‘z pulim — Surxondaryo budjetini oddiy tilda tushuntiradigan AI Telegram-bot</title>
+  <desc id="sarlavha-izoh">Namuna suhbat: «Sherobodga 2026-yil 1-chorakda qancha pul tushdi?» — «33,2 mlrd so‘m tushdi. Reja 26,6 mlrd edi — 125% bajarildi». Manba: VII-24-68-8-119-K/26 qarori, 22.07.2026.</desc>
+  <defs>
+    <pattern id="nuqtalar" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#1F2937"/>
+    </pattern>
+    <radialGradient id="nur" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#E5534B" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#E5534B" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="ramka">
+      <rect width="1280" height="480" rx="28"/>
+    </clipPath>
+    <style>
+      .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .mono { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+      .kursor { animation: miltillash 1.1s steps(1) infinite; }
+      @keyframes miltillash { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .kursor { animation: none; } }
+    </style>
+  </defs>
+
+  <!-- Fon -->
+  <g clip-path="url(#ramka)">
+    <rect width="1280" height="480" fill="#0A0E1A"/>
+    <rect width="1280" height="480" fill="url(#nuqtalar)"/>
+    <circle cx="128" cy="236" r="180" fill="url(#nur)"/>
+  </g>
+
+  <!-- Yuqori yorliq -->
+  <text x="64" y="76" class="mono" font-size="19" fill="#E5534B">LexHackathon 2026 · Huquqiy targ‘ibot</text>
+
+  <!-- Pul xaltasi belgisi -->
+  <circle cx="128" cy="236" r="66" fill="#2A1618" stroke="#E5534B" stroke-width="3"/>
+  <path d="M114 202 L104 188 Q128 180 152 188 L142 202 Z" fill="#FBBF24"/>
+  <rect x="113" y="200" width="30" height="10" rx="4" fill="#B45309"/>
+  <path d="M116 210 C94 222 86 244 90 260 C94 276 110 282 128 282 C146 282 162 276 166 260 C170 244 162 222 140 210 Z" fill="#F59E0B"/>
+  <text x="128" y="258" class="sans" font-size="17" font-weight="700" fill="#78350F" text-anchor="middle">so‘m</text>
+
+  <!-- Nomi va shiori -->
+  <text x="226" y="216" class="sans" font-size="78" font-weight="700" fill="#FFFFFF">O‘z pulim</text>
+  <rect x="230" y="238" width="88" height="6" rx="3" fill="#E5534B"/>
+  <text class="sans" font-size="23" font-style="italic" fill="#9CA3AF">
+    <tspan x="230" y="286">Surxondaryo budjetini oddiy tilda</tspan>
+    <tspan x="230" y="316">tushuntiradigan AI Telegram-bot —</tspan>
+    <tspan x="230" y="346" fill="#E5E7EB">har bir so‘m qayerga ketganini ko‘ring</tspan>
+  </text>
+  <text x="230" y="404" class="sans" font-size="18" font-weight="600" fill="#D1D5DB">Termiz davlat universiteti · Yuridik fakultet</text>
+  <text x="230" y="442" class="mono" font-size="15" fill="#6B7280">#LexHackathon2026 · #OchiqBudjet · Toshkent, 2026</text>
+  <text x="64" y="443" class="mono" font-size="22" font-weight="700" fill="#E5534B">&gt;&gt;</text>
+  <rect class="kursor" x="96" y="426" width="11" height="20" rx="1" fill="#E5534B"/>
+
+  <!-- Telegram suhbati namunasi -->
+  <rect x="852" y="40" width="388" height="400" rx="22" fill="#111827" stroke="#1F2937" stroke-width="1.5"/>
+  <circle cx="884" cy="78" r="18" fill="#2A1618" stroke="#E5534B" stroke-width="2"/>
+  <g transform="translate(884 79) scale(0.27) translate(-128 -235)">
+    <path d="M114 202 L104 188 Q128 180 152 188 L142 202 Z" fill="#FBBF24"/>
+    <path d="M116 210 C94 222 86 244 90 260 C94 276 110 282 128 282 C146 282 162 276 166 260 C170 244 162 222 140 210 Z" fill="#F59E0B"/>
+  </g>
+  <text x="912" y="75" class="sans" font-size="17" font-weight="700" fill="#F9FAFB">O‘z pulim</text>
+  <text x="912" y="95" class="sans" font-size="13" fill="#6B7280">bot</text>
+  <line x1="852" y1="114" x2="1240" y2="114" stroke="#1F2937" stroke-width="1.5"/>
+
+  <g class="xabar">
+    <rect x="948" y="132" width="272" height="62" rx="16" fill="#2B5278"/>
+    <text class="sans" font-size="14.5" fill="#FFFFFF">
+      <tspan x="964" y="158">Sherobodga 2026-yil 1-chorakda</tspan>
+      <tspan x="964" y="180">qancha pul tushdi?</tspan>
+    </text>
+  </g>
+
+  <g class="xabar">
+    <rect x="872" y="210" width="320" height="160" rx="16" fill="#1F2937"/>
+    <text x="888" y="240" class="sans" font-size="17" fill="#F9FAFB"><tspan font-weight="700" fill="#F59E0B">33,2 mlrd so‘m</tspan> tushdi.</text>
+    <text class="sans" font-size="15" fill="#D1D5DB">
+      <tspan x="888" y="266">Reja 26,6 mlrd edi — 125%</tspan>
+      <tspan x="888" y="288">bajarildi, ya’ni 6,6 mlrd ortiqcha.</tspan>
+    </text>
+    <line x1="888" y1="304" x2="1176" y2="304" stroke="#374151" stroke-width="1"/>
+    <g fill="none" stroke="#E5534B" stroke-width="1.6" stroke-linejoin="round">
+      <path d="M889 317h7l4 4v10h-11z"/>
+      <path d="M896 317v4h4"/>
+    </g>
+    <text x="908" y="329" class="mono" font-size="12.5" fill="#9CA3AF">Manba: VII-24-68-8-119-K/26</text>
+    <text x="888" y="354" class="sans" font-size="13.5" fill="#9CA3AF">22.07.2026 · <tspan fill="#60A5FA" text-decoration="underline">E-qaror’da ochish</tspan></text>
+  </g>
+
+  <g class="sans" font-size="14" font-weight="600" fill="#E5E7EB" text-anchor="middle">
+    <rect x="868" y="384" width="96" height="40" rx="10" fill="#1F2937" stroke="#374151"/>
+    <rect x="972" y="384" width="96" height="40" rx="10" fill="#1F2937" stroke="#374151"/>
+    <rect x="1076" y="384" width="148" height="40" rx="10" fill="#1F2937" stroke="#374151"/>
+    <text x="916" y="409">Kirim</text>
+    <text x="1020" y="409">Chiqim</text>
+    <text x="1150" y="409">Kengashga savol</text>
+  </g>
+</svg>
